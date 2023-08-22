@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Qrcode",
+			"path": "."
+		},
+		{
+			"name": "img",
+			"path": "../../Downloads/qr-code-generator-main/qr-code-generator-main/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Qrcode"
+	}
+}
